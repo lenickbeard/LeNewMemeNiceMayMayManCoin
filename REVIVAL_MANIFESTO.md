@@ -1,4 +1,4 @@
-HE RETURN OF $MAYMAY (2026)
+HE RETURN OF $LNMNMMMC (2026)
 
 In 2014, I built the original "Nice May May Man" code right here. 
 The market wasn't ready. Crypto was still in its infancy. 
