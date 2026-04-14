@@ -22,3 +22,5 @@ To ensure the community's safety and prove the origin of this project, all offic
 It’s backed by the world’s most popular meme: Le New Meme Nice Maymay Man! That’s right everyone, this will soon be the world’s most hilarious cryptocurrency. Better meme up!
 
 **Contract Address:** `DnutZjgbnLqj4gYEhphuxajJn1gC6W2rL9CX7fmLpump`
+
+This currency is so innovative, you’ll think we’ve redone virtual currencies completely from the ground up. Which we have! You won’t believe it until you see it.
