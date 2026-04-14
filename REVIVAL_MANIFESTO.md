@@ -8,3 +8,9 @@ The market wasn't ready. Crypto was still in its infancy.
 - **Original Commit:** March 2014
 - **Project Status:** Active & Migrating to SPL-Token
 - **Legacy:** The first true "May May" on-chain.
+
+To ensure the community's safety and prove the origin of this project, all official $MAYMAY tokens will be deployed from the following Solana address:
+
+**Deployer Wallet:** `4B9tDYBr1jo3RwbE6bfvceAr2NHPCAXr5G8f4BtM5ghz`
+
+*Note: This wallet was generated specifically for the 2026 revival to keep the migration clean and separate from my older assets.*
