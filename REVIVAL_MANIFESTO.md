@@ -18,3 +18,7 @@ To ensure the community's safety and prove the origin of this project, all offic
 **Deployer Wallet:** `4B9tDYBr1jo3RwbE6bfvceAr2NHPCAXr5G8f4BtM5ghz`
 
 *Note: This wallet was generated specifically for the 2026 revival to keep the migration clean and separate from my older assets.*
+
+It’s backed by the world’s most popular meme: Le New Meme Nice Maymay Man! That’s right everyone, this will soon be the world’s most hilarious cryptocurrency. Better meme up!
+
+**Contract Address:** `DnutZjgbnLqj4gYEhphuxajJn1gC6W2rL9CX7fmLpump`
